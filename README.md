@@ -1,8 +1,10 @@
 # Plateforme-Streaming-DB-Oracle
 
+## Objectif
 Le projet consiste à modéliser la base de données d’une plateforme de streaming, en prenant en compte l’ensemble des contraintes nécessaires à son bon fonctionnement.
 L’objectif est de concevoir une structure de données, permettant de gérer efficacement les utilisateurs, abonnements, films, séries, contenus, épisodes, acteurs, personnages et réalisateurs.
 
+## Détails
 Chaque utilisateur dispose d’un compte personnel lui permettant d’accéder aux contenus de la plateforme.
 Lors de son inscription, il/elle doit renseigner les informations suivantes :
 	• Nom,
