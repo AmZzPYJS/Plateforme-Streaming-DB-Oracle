@@ -1,0 +1,10 @@
+sqlldr userid=SYSTEM/oracle control=abonnement.ctl log=abonnement.log
+sqlldr userid=SYSTEM/oracle control=utilisateur.ctl log=utilisateur.log
+sqlldr userid=SYSTEM/oracle control=film.ctl log=film.log
+sqlldr userid=SYSTEM/oracle control=serie.ctl log=serie.log
+sqlldr userid=SYSTEM/oracle control=episode.ctl log=episode.log
+sqlldr userid=SYSTEM/oracle control=prends.ctl log=prends.log
+sqlldr userid=SYSTEM/oracle control=visionne.ctl log=visionne.log
+sqlldr userid=SYSTEM/oracle control=telecharge.ctl log=telecharge.log
+
+(à executer dans l'ordre dans le terminal de la VM)
